@@ -1,4 +1,3 @@
-DET,Red Wings
 COL,Avalanche
 CHI,Blackhawks
 CBJ,Blue Jackets
@@ -24,6 +23,7 @@ FLA,Panthers
 PIT,Penguins
 NSH,Predators
 NYR,Rangers
+DET,Red Wings
 BUF,Sabres
 OTT,Senators
 SJS,Sharks
