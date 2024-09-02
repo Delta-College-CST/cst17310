@@ -13,3 +13,7 @@ print(listLength)                   # and print list length
 
 for listItem in infolist:           # Iterate through list and
     print(listItem,end=' ')         # print on same line
+print()
+
+newList = infolist[1:4]             # Splice to create sublist
+print(newList)                      # positions 1-4 (2nd-5th elements)
