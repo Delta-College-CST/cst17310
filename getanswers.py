@@ -20,16 +20,3 @@ while keepAsking == "y":
     keepAsking = input("Ask another question (y or n)?  ")
 
 print("Thank you for using the Magic Answering Machine.")
-
-
-
-    
-
-
-
-
-
-
-
-
-
